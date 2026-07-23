@@ -79,7 +79,7 @@ promising?) rather than a certainty machine.
 
 ## 🚀 Live App
 
-Try it here: **[ADD YOUR LIVE STREAMLIT LINK HERE AFTER DEPLOYING]**
+Try it here: https://neurofive-ml-track-task-6.streamlit.app/
 
 ## 🖥️ How to Run This Project
 
@@ -105,10 +105,9 @@ This opens the app at `http://localhost:8501`.
 ## 📁 Project Structure
 
 ```
-capstone/
+neurofive-ml-track(TASK#6)
 ├── README.md                          <- you are here
 ├── CASE_STUDY.md                       <- half-page business case study
-├── VIDEO_SCRIPT.md                     <- script/outline for the walkthrough video
 ├── spotify_hit_predictor.ipynb         <- full analysis notebook (EDA -> modeling -> saving)
 ├── app.py                              <- Streamlit web app
 ├── spotify_hit_pipeline.joblib         <- saved, deployable model pipeline
